@@ -1,5 +1,5 @@
 local SupportedGames = {
-    [1234567890] = {
+    [126884695634066] = {
         Name = "Grow a Garden",
         Url = "https://raw.githubusercontent.com/fatigue-a/skeleton-hub/refs/heads/main/games/GrowAGarden.lua"
     },
