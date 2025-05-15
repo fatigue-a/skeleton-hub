@@ -19,6 +19,10 @@ return {
             "Added Open Gui buttons (shop, gears, etc...)",
             "Minor Fixes",
         },
+        ["v1.4"] = {
+            "Added AutoCollect method (Teleport,Nearby)",
+            "Minor Fixes",
+        },
     },
     ["PlaceHolder"] = {
         ["v1.0"] = {
