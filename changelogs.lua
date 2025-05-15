@@ -23,14 +23,4 @@ return {
             "Added AutoCollect method (Teleport,Nearby)",
             "Minor Fixes",
         },
-    },
-    ["PlaceHolder"] = {
-        ["v1.0"] = {
-            "Testing",
-            "Testing",
-        },
-        ["v1.1"] = {
-            "test",
-        },
     }
-}
