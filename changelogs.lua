@@ -13,6 +13,12 @@ return {
             "Better Changelogs",
             "Added Walkspeed, and Jumpower to the misc tab",
         },
+        ["v1.3"] = {
+            "Added Auto Favorite (WIP)",
+            "Added Auto Buy Seeds",
+            "Added Open Gui buttons (shop, gears, etc...)",
+            "Minor Fixes"
+        },
     },
     ["PlaceHolder"] = {
         ["v1.0"] = {
