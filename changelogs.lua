@@ -23,5 +23,5 @@ return {
             "Added AutoCollect method (Teleport,Nearby)",
             "Minor Fixes",
         },
-    }
+    },
 }
