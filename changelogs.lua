@@ -17,7 +17,7 @@ return {
             "Added Auto Favorite (WIP)",
             "Added Auto Buy Seeds",
             "Added Open Gui buttons (shop, gears, etc...)",
-            "Minor Fixes"
+            "Minor Fixes",
         },
     },
     ["PlaceHolder"] = {
